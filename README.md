@@ -1,6 +1,3 @@
-**UPDATES**
-*data_files/* Folder is too large to upload, working on compressing or removing certain files
-
 Paper and better organization of these files are coming soon - check back May 8th!
 
 Thesis Advisor: Gabriel Zucman
