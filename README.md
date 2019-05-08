@@ -1,9 +1,33 @@
+# Distributional National Accounts: Methods and Estimates for Pakistan
+
+**Survey Calculations**
+
+https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-Pakistan/blob/master/data_files/SurveyCalculations.ipynb
+
+**Tax Calculations**
+
+https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-Pakistan/blob/master/data_files/TaxCalculations.ipynb
+
+**Combining Tax and Survey Data**
+
+https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-Pakistan/blob/master/data_files/CombiningData.ipynb
+
+**Visualization and Conclusions**
+
+Coming Soon!
+
+**Appendix: All Graphs and Tables**
+
+Coming Soon!
+
+============================================================
+
 Paper and better organization of these files are coming soon - check back May 8th!
 
 Thesis Advisor: Gabriel Zucman
 Special Thanks To: Emmanuel Saez, Pakistan Bureau of Statistics.
 
-If you're non-technical and want to adjust the code, fear not! 
+If you're non-technical and want to adjust the codes, fear not! 
 
 1) Download Jupyter Notebook software here (https://jupyter.org/install)
 2) Read the attached guide that tells you how to run the notebook.
