@@ -26,7 +26,7 @@ Paper and better organization of these files are coming soon - check back May 8t
 
 Thesis Advisor: Gabriel Zucman
 
-Special Thanks To: Emmanuel Saez, Pakistan Bureau of Statistics.
+Special Thanks To: Emmanuel Saez, Kulsum Ahmed (World Bank Group), Khaleel Ahmed (World Bank Group), and the Pakistan Bureau of Statistics.
 
 If you're non-technical and want to adjust the codes, fear not! 
 
