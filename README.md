@@ -1,4 +1,4 @@
-# Distributional National Accounts: Methods and Estimates for Pakistan
+# Measuring Income Inequality in Pakistan: Constructing Distributional National Accounts
 
 **Survey Calculations**
 
