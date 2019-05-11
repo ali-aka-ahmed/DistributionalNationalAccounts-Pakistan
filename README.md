@@ -22,7 +22,7 @@ Coming Soon!
 
 ============================================================
 
-Paper and better organization of these files are coming soon - check back May 8th!
+Paper and better organization of these files are coming soon - check back May 18th!
 
 Thesis Advisor: Gabriel Zucman
 
