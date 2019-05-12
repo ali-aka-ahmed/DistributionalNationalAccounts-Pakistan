@@ -20,6 +20,10 @@ https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-P
 
 Coming Soon!
 
+**Thesis**
+
+https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/thesis.pdf
+
 ============================================================
 
 Paper and better organization of these files are coming soon - check back May 18th!
