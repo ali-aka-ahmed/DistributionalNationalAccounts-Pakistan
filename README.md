@@ -22,6 +22,8 @@ https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-P
 
 **4) Visualization and Conclusions**
 
+*BETTER ORGANIZATION COMING SOON*
+
 https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-Pakistan/blob/master/data_files/VisualizationsAndConclusions.ipynb
 
 **Appendix: All Graphs and Tables**
@@ -29,12 +31,14 @@ https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-P
 Coming Soon!
 
 **Full Thesis**
+
 *PROVISIONAL - NOTE TABLES 1 - 3 ARE SLIGHTLY OFF (DIFFER FROM THE ABOVE CORRECT TABLE) DUE TO FORMATTING ISSUES - UPDATE COMING MAY 18TH*
+
 https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/thesis.pdf
 
 ============================================================
 
-Paper and better organization of these files are coming soon - check back May 18th!
+Final organization and final paper are coming soon - check back May 18th!
 
 Thesis Advisor: Gabriel Zucman
 
