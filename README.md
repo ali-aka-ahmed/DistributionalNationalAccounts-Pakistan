@@ -4,7 +4,7 @@ It is a well-known problem in economics that survey data is wildly inaccurate fo
 
 We combine newly released tax records with survey data to produce estimates for the income distribution of Pakistan. The goal is to divide the aggregate 'national income' statistic derived from national accounts data into strata that represent the full distribution of earners in Pakistan (hence the term distributional national accounts). The following is the main table of our results:
 
-{IMAGE}
+![MainTable](https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/mainTable.png)
 
 We provide a walkthrough of how we achieved these results in the below files. The original notebooks are above, feel free to send a pull request if you have alternative scenarios or assumptions in mind. You can reach me at ali.ahmed@berkeley.edu if you need help running the software or have any questions or critques.
 
