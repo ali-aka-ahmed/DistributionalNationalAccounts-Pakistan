@@ -4,7 +4,7 @@ It is a well-known problem in economics that survey data is wildly inaccurate fo
 
 We combine newly released tax records with survey data to produce estimates for the income distribution of Pakistan. The goal is to divide the aggregate 'national income' statistic derived from national accounts data into strata that represent the full distribution of earners in Pakistan (hence the term distributional national accounts). The following is the main table of our results:
 
-![MainTable](https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/mainTable.png)
+![MainTable](https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/main-table.png)
 
 We provide a walkthrough of how we achieved these results in the below files. The original notebooks are above, feel free to send a pull request if you have alternative scenarios or assumptions in mind. You can reach me at ali.ahmed@berkeley.edu if you need help running the software or have any questions or critques.
 
@@ -22,6 +22,8 @@ https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-P
 
 **4) Visualization and Conclusions**
 
+*BETTER ORGANIZATION COMING SOON*
+
 https://nbviewer.jupyter.org/github/ali-wetrill/DistributionalNationalAccounts-Pakistan/blob/master/data_files/VisualizationsAndConclusions.ipynb
 
 **Appendix: All Graphs and Tables**
@@ -30,11 +32,13 @@ Coming Soon!
 
 **Full Thesis**
 
+*PROVISIONAL - NOTE TABLES 1 - 3 ARE SLIGHTLY OFF (DIFFER FROM THE ABOVE CORRECT TABLE) DUE TO FORMATTING ISSUES - UPDATE COMING MAY 18TH*
+
 https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/thesis.pdf
 
 ============================================================
 
-Paper and better organization of these files are coming soon - check back May 18th!
+Final organization and final paper are coming soon - check back May 18th!
 
 Thesis Advisor: Gabriel Zucman
 
