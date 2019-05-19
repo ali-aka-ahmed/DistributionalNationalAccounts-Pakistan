@@ -32,8 +32,6 @@ Coming Soon!
 
 **Full Thesis**
 
-*PROVISIONAL - NOTE TABLES 1 - 3 ARE SLIGHTLY OFF (DIFFER FROM THE ABOVE CORRECT TABLE) DUE TO FORMATTING ISSUES - UPDATE COMING MAY 18TH*
-
 https://raw.githubusercontent.com/ali-wetrill/DistributionalNationalAccounts-Pakistan/master/thesis.pdf
 
 ============================================================
